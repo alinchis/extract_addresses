@@ -1,0 +1,22 @@
+{
+  "name": "extract_addresses",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alinchis/extract_addresses.git"
+  },
+  "author": "Alin CHIS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alinchis/extract_addresses/issues"
+  },
+  "homepage": "https://github.com/alinchis/extract_addresses#readme",
+  "dependencies": {
+    "fs-extra": "^9.0.0"
+  }
+}
